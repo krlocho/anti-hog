@@ -1,0 +1,17 @@
+telethon==1.36.0
+openai==1.54.0
+python-dotenv==1.0.1
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+xgboost==2.1.2
+workalendar==17.0.0
+geopy==2.4.1
+rapidfuzz==3.10.1
+sentence-transformers==3.2.1
+chromadb==0.5.20
+streamlit==1.40.1
+folium==0.18.0
+streamlit-folium==0.23.1
+plotly==5.24.1
+tqdm==4.67.0

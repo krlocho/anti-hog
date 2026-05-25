@@ -1,0 +1,17 @@
+.env
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/raw/*.json
+data/raw/snapshots/
+data/raw/*.log
+data/processed/*.csv
+data/processed/extraction_cache.json
+models/*.pkl
+rag/chroma_db/
+.DS_Store
+.cache/
+.ipynb_checkpoints/
